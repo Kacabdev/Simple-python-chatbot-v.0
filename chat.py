@@ -1,0 +1,8 @@
+print('Hello it is melo your chatbot assistant!')
+name = input('What is your name? ')
+print('Hello', name, 'how can I help you today?')
+age = input('How old are you? ')
+print('wow amazing', age, 'years old!')
+color = input('waht is your fav color')
+print('Amazing', color, 'is my fav color too!')
+print('I am a chatbot and I am here to help you with anything you need!')
